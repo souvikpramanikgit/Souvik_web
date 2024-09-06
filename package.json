@@ -1,0 +1,31 @@
+{
+  "name": "souvik-web",
+  "version": "1.0.0",
+  "description": "An npm package to showcase my terminal portfolio.",
+  "main": "index.js",
+  "bin":{
+    "souvik-web":"./index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souvikpramanikgit/Souvik_web.git"
+  },
+  "keywords": [
+    "souvik"
+  ],
+  "author": "Souvik Pramanik",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/souvikpramanikgit/Souvik_web/issues"
+  },
+  "homepage": "https://github.com/souvikpramanikgit/Souvik_web#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "figlet": "^1.7.0"
+  }
+}
