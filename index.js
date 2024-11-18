@@ -36,7 +36,7 @@ const generateText = (text, font) => {
     console.log(`${chalk.cyan.bold('WEBSITE')} - Coolest thing -> (https://souviks.netlify.app/)\n`);
 
     console.log(chalk.yellow.bold(skills));
-    console.log(`${chalk.green.bold('LANGUAGES')}   - Java, C++, Python, TypeScript, JavaScript`);
+    console.log(`${chalk.green.bold('LANGUAGES')}   - Java, C++, JavaScript`);
     console.log(`${chalk.green.bold('FRAMEWORKS')}  - React`);
     console.log(`${chalk.green.bold('TECHNOLOGIES')} - Express, Nodejs`);
     console.log(`${chalk.green.bold('DATABASES')}   - MongoDB,  SQL`);
