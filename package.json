@@ -1,6 +1,6 @@
 {
   "name": "souvik-web",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "An npm package to showcase my terminal portfolio.",
   "main": "index.js",
   "bin":{
