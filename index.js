@@ -33,7 +33,7 @@ const generateText = (text, font) => {
     console.log(`${chalk.cyan.bold('NAME')}    - Souvik Kumar Pramanik`);
     console.log(`${chalk.cyan.bold('STATUS')}  - Student`);
     console.log(`${chalk.cyan.bold('GITHUB')}  - btw its awesome -> (https://github.com/souvikpramanikgit)`);
-    console.log(`${chalk.cyan.bold('WEBSITE')} - Coolest thing -> (https://souvik)\n`);
+    console.log(`${chalk.cyan.bold('WEBSITE')} - Coolest thing -> (https://souviks.netlify.app/)\n`);
 
     console.log(chalk.yellow.bold(skills));
     console.log(`${chalk.green.bold('LANGUAGES')}   - Java, C++, Python, TypeScript, JavaScript`);
